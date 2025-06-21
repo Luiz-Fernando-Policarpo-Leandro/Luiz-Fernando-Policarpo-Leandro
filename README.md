@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, mundo!
 
-<!--
-**Luiz-Fernando-Policarpo-Leandro/Luiz-Fernando-Policarpo-Leandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação na Unima – Centro Universitário de Maceió. Tenho paixão por tecnologia e estou sempre em busca de novos aprendizados, com foco em desenvolver aplicações robustas, eficientes e bem estruturadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que uso
+
+- **Linguagens e Frameworks**:  
+  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+- **Banco de Dados**:  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## 📘 Aprendendo agora
+
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-policarpo-leandro-03a3602b7/)
+  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fasfernandoal@outlook.com.br)
+
+</div>
