@@ -2,7 +2,7 @@
 
 ## 👋 Olá, eu sou Luiz Fernando
 
-<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" 
+<img src="https://github.com/Luiz-Fernando-Policarpo-Leandro/Luiz-Fernando-Policarpo-Leandro/blob/main/ilustracao_de_computador.png" 
 alt="ilustração de um computador" 
 min-width="400px" 
 max-width="400px" 
