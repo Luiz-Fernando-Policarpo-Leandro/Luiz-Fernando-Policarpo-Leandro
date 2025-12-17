@@ -1,3 +1,7 @@
+
+
+## 👋 Olá, eu sou Luiz Fernando
+
 <img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" 
 alt="ilustração de um computador" 
 min-width="400px" 
@@ -5,16 +9,14 @@ max-width="400px"
 width="400px" 
 align="right">
 
-## 👋 Olá, eu sou Luiz Fernando
-
 - 🎓 Estudante de Ciência da Computação na **Unima – Centro Universitário de Maceió**
 - 💻 Desenvolvedor com foco em **Back-end**
 - 🧠 Interesse real em **arquitetura, boas práticas e código bem estruturado**
 - 🚀 Evoluindo continuamente através de projetos práticos e estudo disciplinado
 
----
 
-## 🧠 Sobre mim
+
+🧠 *Sobre mim*
 
 Não estou aqui apenas para “aprender linguagens”.  
 Meu foco é entender **como sistemas funcionam**, **como escalam** e **como são mantidos**.
