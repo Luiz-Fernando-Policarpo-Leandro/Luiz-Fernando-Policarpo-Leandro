@@ -56,13 +56,14 @@ Tenho experiência prática com **APIs REST**, **bancos de dados relacionais** e
 
 
 <div align="center">
+  <!-- link: https://githubreadmestatsfast.vercel.app/ -->
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Luiz-Fernando-Policarpo-Leandro&show_icons=true&theme=highcontrast"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Luiz-Fernando-Policarpo-Leandro&show_icons=true&theme=tokyonight"
     width="420"
     height="170"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luiz-Fernando-Policarpo-Leandro&layout=compact&theme=highcontrast"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luiz-Fernando-Policarpo-Leandro&layout=compact&theme=tokyonight"
     width="420"
     height="170"
   />
