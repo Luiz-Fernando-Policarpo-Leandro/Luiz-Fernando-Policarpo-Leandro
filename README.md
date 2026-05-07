@@ -61,9 +61,24 @@ Tenho experiência prática com **APIs REST**, **bancos de dados relacionais** e
 ---
 
 ## 📫 Contato
-<div align="center">
+<div align="center" style="display:flex;>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-policarpo-leandro)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fasfernandoal@outlook.com.br)
+  <a href="https://www.linkedin.com/in/luiz-fernando-policarpo-leandro" style="margin-right: 20px;">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      style="height: 60px;"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:fasfernandoal@outlook.com.br">
+    <img 
+      src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+      style="height: 60px;"
+      alt="Outlook"
+    />
+  </a>
 
 </div>
+
+---
