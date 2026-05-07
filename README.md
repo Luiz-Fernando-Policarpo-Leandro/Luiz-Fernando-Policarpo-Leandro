@@ -7,17 +7,22 @@
   align="right"
 />
 
-**Back-end Developer em formação | Ciência da Computação**
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=435&lines=Software+Developer;Ciência+da+Computação;Back-end+Enthusiast" alt="Typing SVG" />
+</p>
 
-🎓 Ciência da Computação — **Unima – Centro Universitário de Maceió**  
-💻 Foco em **APIs**, **arquitetura** e **código sustentável**  
-🧠 Interesse em **qualidade estrutural**, não apenas em frameworks  
+
+
+🎓 7º Período de Ciência da Computação — **Unima Afya**  
+💻 Foco em **Node.js**, **Python** e **Ruby on Rails**  
+🧠 Desenvolvimento de APIs REST e arquitetura de sistemas  
+🐧 Usuário entusiasta de **Linux (Ubuntu/WSL)**
 
 ---
 
-Atuo no desenvolvimento **back-end**, com foco em construir sistemas **claros, previsíveis e fáceis de evoluir**.
+Atuo no desenvolvimento **back-end**, com foco em construir sistemas **claros, previsíveis e fáceis de escalar**. 
 
-Tenho experiência prática com **APIs REST**, **bancos de dados relacionais** e **processamento assíncrono**, sempre aplicando boas práticas e buscando crescimento técnico consistente.
+Tenho experiência prática com **APIs REST**, **bancos de dados relacionais** e **processamento assíncrono**. Atualmente, estou aprofundando meus estudos no ecossistema Python para soluções corporativas. Além da programação, dedico-me ao design de sistemas de RPG autorais (d6 system).
 
 ---
 
@@ -25,50 +30,33 @@ Tenho experiência prática com **APIs REST**, **bancos de dados relacionais** e
 
 <div align="center">
 
-<!-- Back-end -->
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-
-<br/>
-
-<!-- Dados & Processamento -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
-
-<br/>
-
-<!-- Ferramentas & Estudos -->
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![Arquitetura](https://img.shields.io/badge/Arquitetura-000?style=for-the-badge)
+<!-- Back-end & Languages -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,py,ruby,rails,nodejs,php,go,js&theme=dark" height="65" alt="Linguagens e Frameworks" />
+  </p>
+  
+  <!-- Dados & Processamento -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,aws" height="65" alt="Infra e Dados" />
+  </p>
+  
+  <!-- Ferramentas & Ambiente -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,git,github,vscode,notion,postman" height="65" alt="Ferramentas e Ambiente" />
+  </p>
 
 </div>
 
 ---
 
+## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <!-- link: https://githubreadmestatsfast.vercel.app/ -->
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Luiz-Fernando-Policarpo-Leandro&show_icons=true&theme=tokyonight"
-    width="420"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luiz-Fernando-Policarpo-Leandro&layout=compact&theme=tokyonight"
-    width="420"
-    height="170"
-  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Luiz-Fernando-Policarpo-Leandro&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luiz-Fernando-Policarpo-Leandro&layout=compact&theme=tokyonight" width="300" />
 </div>
+
+<br/>
 
 ---
 
@@ -79,4 +67,3 @@ Tenho experiência prática com **APIs REST**, **bancos de dados relacionais** e
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fasfernandoal@outlook.com.br)
 
 </div>
-
